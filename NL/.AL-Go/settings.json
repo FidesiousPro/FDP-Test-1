@@ -3,12 +3,5 @@
   "artifact": "bcartifacts/sandbox/22.0.54157.55210/nl/closest",
   "appFolders": [],
   "testFolders": [],
-  "repoVersion": "1.1",
-  "appDependencyProbingPaths": [
-    {
-      "repo": ".",
-      "release_status": "include",
-      "projects": "W1"
-    }
-  ]
+  "repoVersion": "1.1"
 }
